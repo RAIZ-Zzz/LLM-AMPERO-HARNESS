@@ -1,0 +1,8 @@
+{"name": "STAIRWAY SOLO B2",
+ "_note": "B + playability blocks for headphones (gate, delay, reverb): NOT from sources, taste only",
+ "blocks": [{"slot": 0, "cat": "DYN", "model": "Fast Gate", "params": {"Threshold": 25}},
+            {"slot": 1, "cat": "AMP", "model": "Marshell SLP",
+             "params": {"Volume": 70, "Presence": 55, "Output": 50, "Bass": 40, "Middle": 60, "Treble": 60}},
+            {"slot": 2, "cat": "CAB", "model": "UK Green 4x12", "params": {}},
+            {"slot": 3, "cat": "DLY", "model": "Analog Delay M", "params": {"Mix": 12, "Time": 380, "Feedback": 15}},
+            {"slot": 4, "cat": "RVB", "model": "Studio", "params": {"Mix": 18, "Decay": 40}}]}

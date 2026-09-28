@@ -1,0 +1,4 @@
+{"name": "STAIRWAY SOLO A",
+ "blocks": [{"slot": 0, "cat": "AMP", "model": "Superb Dual Drive",
+             "params": {"Volume 1": 70, "Tone 1": 60, "Volume 2": 60, "Tone 2": 50, "Output": 50}},
+            {"slot": 1, "cat": "CAB", "model": "TWD Dlx 1x12", "params": {}}]}
